@@ -153,20 +153,6 @@ body {
 4. ブランチにプッシュ (`git push origin feature/amazing-feature`)
 5. プルリクエストを作成
 
-## 📝 ライセンス
-
-このプロジェクトは [MIT License](LICENSE) の下でライセンスされています。
-
-## 🐛 バグレポート・機能要求
-
-問題を発見した場合や新機能の提案がある場合は、[Issues](https://github.com/yourusername/search-quiz-app/issues)で報告してください。
-
-## 👥 作者
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-
 ## 🙏 謝辞
 
 - [Google Gemini AI](https://ai.google.dev/) - AI検索機能を提供
