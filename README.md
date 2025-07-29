@@ -750,14 +750,6 @@ Gemini AIを使用した高機能な検索エンジンと、検索履歴から�
 
 [ライブデモを見る](https://yourusername.github.io/search-quiz-app/)
 
-## 📱 スクリーンショット
-
-### 検索機能
-![検索画面](screenshot-search.png)
-
-### クイズ機能
-![クイズ画面](screenshot-quiz.png)
-
 ## 🛠️ 技術仕様
 
 - **フロントエンド**: HTML5, CSS3, JavaScript (ES6+)
@@ -863,31 +855,6 @@ Gemini API（無料プラン）の制限:
 
 詳細は[Gemini API料金](https://ai.google.dev/pricing)を参照してください。
 
-## 🛠️ カスタマイズ
-
-### デザインの変更
-CSSを編集してデザインをカスタマイズ:
-```css
-/* グラデーションカラーの変更 */
-body {
-    background: linear-gradient(135deg, #your-color1, #your-color2);
-}
-```
-
-### 機能の拡張
-- 検索履歴の保存件数変更
-- 要約文字数の調整
-- クイズ形式の追加
-
-## 🤝 コントリビューション
-
-プルリクエストを歓迎します！以下の手順でコントリビュート:
-
-1. リポジトリをフォーク
-2. 機能ブランチを作成 (`git checkout -b feature/amazing-feature`)
-3. 変更をコミット (`git commit -m 'Add some amazing feature'`)
-4. ブランチにプッシュ (`git push origin feature/amazing-feature`)
-5. プルリクエストを作成
 
 ## 🙏 謝辞
 
@@ -904,5 +871,3 @@ body {
 - レスポンシブデザイン
 
 ---
-
-⭐ このプロジェクトが役に立った場合は、スターをつけていただけると嬉しいです！
